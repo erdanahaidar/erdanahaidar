@@ -1,5 +1,5 @@
 
-### I'm FXC7BOT Gift Me Stars 🌟 <br><img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="20px">
+### I'm ERDANABOT Gift Me Stars 🌟 <br><img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="20px">
 <p align="center">
 <a href="https://github.com/ERDANA"><img src="https://raw.githubusercontent.com/ERDANA/termux-bot-wa/main/src/glitchtext.png"></a>
 </p>
