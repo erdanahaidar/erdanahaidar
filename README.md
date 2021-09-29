@@ -51,7 +51,7 @@ Follow The Steps Below!
 > git clone https://github.com/ERDANA/termux-bot-wa
 > cd termux-bot-wa
 > bash install.sh
-> npm start / node Fxc7.js
+> npm start / node ERDANA.js
 ```
 
 ## Features
